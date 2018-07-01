@@ -7,3 +7,12 @@
 /Users/anguyen/RiderProjects/Data Structures/Data Structures/obj/Debug/netstandard2.0/Data Structures.AssemblyInfo.cs
 /Users/anguyen/RiderProjects/Data Structures/Data Structures/obj/Debug/netstandard2.0/Data Structures.dll
 /Users/anguyen/RiderProjects/Data Structures/Data Structures/obj/Debug/netstandard2.0/Data Structures.pdb
+/Users/michellehughes/Projects/DataStructures-1/Data Structures/bin/Debug/netstandard2.0/Data Structures.deps.json
+/Users/michellehughes/Projects/DataStructures-1/Data Structures/bin/Debug/netstandard2.0/Data Structures.dll
+/Users/michellehughes/Projects/DataStructures-1/Data Structures/bin/Debug/netstandard2.0/Data Structures.pdb
+/Users/michellehughes/Projects/DataStructures-1/Data Structures/obj/Debug/netstandard2.0/Data Structures.csprojResolveAssemblyReference.cache
+/Users/michellehughes/Projects/DataStructures-1/Data Structures/obj/Debug/netstandard2.0/Data Structures.csproj.CoreCompileInputs.cache
+/Users/michellehughes/Projects/DataStructures-1/Data Structures/obj/Debug/netstandard2.0/Data Structures.AssemblyInfoInputs.cache
+/Users/michellehughes/Projects/DataStructures-1/Data Structures/obj/Debug/netstandard2.0/Data Structures.AssemblyInfo.cs
+/Users/michellehughes/Projects/DataStructures-1/Data Structures/obj/Debug/netstandard2.0/Data Structures.dll
+/Users/michellehughes/Projects/DataStructures-1/Data Structures/obj/Debug/netstandard2.0/Data Structures.pdb

@@ -64,10 +64,8 @@ namespace Data_Structures {
 
                     if (current.Left != null) {
                         stack.Insert(0, current.Left);
-                    }
-                                        
+                    }                       
                 }
-                
             }
 
             return dataList;

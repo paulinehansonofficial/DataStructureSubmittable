@@ -30,7 +30,7 @@
   },
   "libraries": {
     "Microsoft.NETCore.Platforms/1.1.0": {
-      "sha512": "kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "sha512": "UcNJl0Zzj/0CcFW61/lbrtfd4lbZxhrew1MOC2As5YCW5QS66Fy9J460s2U+dCYfvTCMxSZOavAdNYiUSsx+uA==",
       "type": "package",
       "path": "microsoft.netcore.platforms/1.1.0",
       "files": [
@@ -177,23 +177,23 @@
     ]
   },
   "packageFolders": {
-    "/Users/anguyen/.nuget/packages/": {},
+    "/Users/michellehughes/.nuget/packages/": {},
     "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/anguyen/RiderProjects/Data Structures/Data Structures/Data Structures.csproj",
+      "projectUniqueName": "/Users/michellehughes/Projects/DataStructures-1/Data Structures/Data Structures.csproj",
       "projectName": "Data Structures",
-      "projectPath": "/Users/anguyen/RiderProjects/Data Structures/Data Structures/Data Structures.csproj",
-      "packagesPath": "/Users/anguyen/.nuget/packages/",
-      "outputPath": "/Users/anguyen/RiderProjects/Data Structures/Data Structures/obj/",
+      "projectPath": "/Users/michellehughes/Projects/DataStructures-1/Data Structures/Data Structures.csproj",
+      "packagesPath": "/Users/michellehughes/.nuget/packages/",
+      "outputPath": "/Users/michellehughes/Projects/DataStructures-1/Data Structures/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/anguyen/.config/NuGet/NuGet.Config"
+        "/Users/michellehughes/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
@@ -218,7 +218,7 @@
           "NETStandard.Library": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "[2.0.1, )",
+            "version": "2.0.1",
             "autoReferenced": true
           }
         },

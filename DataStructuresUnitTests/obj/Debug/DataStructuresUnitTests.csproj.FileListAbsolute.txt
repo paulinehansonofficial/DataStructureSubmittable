@@ -14,3 +14,19 @@
 /Users/anguyen/RiderProjects/Data Structures/DataStructuresUnitTests/obj/Debug/DataStructuresUnitTests.csproj.CoreCompileInputs.cache
 /Users/anguyen/RiderProjects/Data Structures/DataStructuresUnitTests/obj/Debug/DataStructuresUnitTests.dll
 /Users/anguyen/RiderProjects/Data Structures/DataStructuresUnitTests/obj/Debug/DataStructuresUnitTests.pdb
+/Users/michellehughes/Projects/DataStructures-1/DataStructuresUnitTests/bin/Debug/NUnit3.TestAdapter.dll
+/Users/michellehughes/Projects/DataStructures-1/DataStructuresUnitTests/bin/Debug/NUnit3.TestAdapter.pdb
+/Users/michellehughes/Projects/DataStructures-1/DataStructuresUnitTests/bin/Debug/nunit.engine.dll
+/Users/michellehughes/Projects/DataStructures-1/DataStructuresUnitTests/bin/Debug/nunit.engine.api.dll
+/Users/michellehughes/Projects/DataStructures-1/DataStructuresUnitTests/bin/Debug/Mono.Cecil.dll
+/Users/michellehughes/Projects/DataStructures-1/DataStructuresUnitTests/bin/Debug/DataStructuresUnitTests.dll
+/Users/michellehughes/Projects/DataStructures-1/DataStructuresUnitTests/bin/Debug/DataStructuresUnitTests.pdb
+/Users/michellehughes/Projects/DataStructures-1/DataStructuresUnitTests/bin/Debug/Data Structures.dll
+/Users/michellehughes/Projects/DataStructures-1/DataStructuresUnitTests/bin/Debug/nunit.framework.dll
+/Users/michellehughes/Projects/DataStructures-1/DataStructuresUnitTests/bin/Debug/Data Structures.pdb
+/Users/michellehughes/Projects/DataStructures-1/DataStructuresUnitTests/bin/Debug/nunit.framework.pdb
+/Users/michellehughes/Projects/DataStructures-1/DataStructuresUnitTests/bin/Debug/nunit.framework.xml
+/Users/michellehughes/Projects/DataStructures-1/DataStructuresUnitTests/obj/Debug/DataStructuresUnitTests.csprojResolveAssemblyReference.cache
+/Users/michellehughes/Projects/DataStructures-1/DataStructuresUnitTests/obj/Debug/DataStructuresUnitTests.csproj.CoreCompileInputs.cache
+/Users/michellehughes/Projects/DataStructures-1/DataStructuresUnitTests/obj/Debug/DataStructuresUnitTests.dll
+/Users/michellehughes/Projects/DataStructures-1/DataStructuresUnitTests/obj/Debug/DataStructuresUnitTests.pdb
